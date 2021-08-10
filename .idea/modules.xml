@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaUdemyCourse/27_primitiveTypesChallenge/27_primitiveTypesChallenge.iml" filepath="$PROJECT_DIR$/JavaUdemyCourse/27_primitiveTypesChallenge/27_primitiveTypesChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaUdemyCourse/29_FloatingPointChallenge/29_FloatingPointChallenge.iml" filepath="$PROJECT_DIR$/JavaUdemyCourse/29_FloatingPointChallenge/29_FloatingPointChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaUdemyCourse/section4/48_moreOnMethodsChallenge/48_moreOnMethodsChallenge.iml" filepath="$PROJECT_DIR$/JavaUdemyCourse/section4/48_moreOnMethodsChallenge/48_moreOnMethodsChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaUdemyCourse/section4/57_MethodOverloading/57_MethodOverloading.iml" filepath="$PROJECT_DIR$/JavaUdemyCourse/section4/57_MethodOverloading/57_MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaUdemyCourse/section4/60_SecondsAndMinutesChallenge/60_SecondsAndMinutesChallenge.iml" filepath="$PROJECT_DIR$/JavaUdemyCourse/section4/60_SecondsAndMinutesChallenge/60_SecondsAndMinutesChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/67_sum_3_and_5_challenge/67_sum_3_and_5_challenge.iml" filepath="$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/67_sum_3_and_5_challenge/67_sum_3_and_5_challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/70_DigitSumChallenge/70_DigitSumChallenge.iml" filepath="$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/70_DigitSumChallenge/70_DigitSumChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/75_MinAndMaxChallenge/75_MinAndMaxChallenge.iml" filepath="$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/75_MinAndMaxChallenge/75_MinAndMaxChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaUdemyCourse/section4/CodingExcercises8_11/CodingExcercises8_11.iml" filepath="$PROJECT_DIR$/JavaUdemyCourse/section4/CodingExcercises8_11/CodingExcercises8_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/DiagonalStar/DiagonalStar.iml" filepath="$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/DiagonalStar/DiagonalStar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/EventDigitSum/EventDigitSum.iml" filepath="$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/EventDigitSum/EventDigitSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/FirstLastDigitSumChallenge/FirstLastDigitSumChallenge.iml" filepath="$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/FirstLastDigitSumChallenge/FirstLastDigitSumChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/FlourProblem_ToughChallenge/FlourProblem_ToughChallenge.iml" filepath="$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/FlourProblem_ToughChallenge/FlourProblem_ToughChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/GreatestCommonDivisor/GreatestCommonDivisor.iml" filepath="$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/GreatestCommonDivisor/GreatestCommonDivisor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaUdemyCourse/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/JavaUdemyCourse/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/InputCalculator_Challenge/InputCalculator_Challenge.iml" filepath="$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/InputCalculator_Challenge/InputCalculator_Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/LargestPrime_ToughChallenge/LargestPrime_ToughChallenge.iml" filepath="$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/LargestPrime_ToughChallenge/LargestPrime_ToughChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/LastDigitChecker_challenge/LastDigitChecker_challenge.iml" filepath="$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/LastDigitChecker_challenge/LastDigitChecker_challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/NumberPalindromeChallenge/NumberPalindromeChallenge.iml" filepath="$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/NumberPalindromeChallenge/NumberPalindromeChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/NumberToWords_Challenge/NumberToWords_Challenge.iml" filepath="$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/NumberToWords_Challenge/NumberToWords_Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/PaintJob_Challenge/PaintJob_Challenge.iml" filepath="$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/PaintJob_Challenge/PaintJob_Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/PerfectNumber_challenge/PerfectNumber_challenge.iml" filepath="$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/PerfectNumber_challenge/PerfectNumber_challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaUdemyCourse/section4/SpeedConverterChallenge/SpeedConverterChallenge.iml" filepath="$PROJECT_DIR$/JavaUdemyCourse/section4/SpeedConverterChallenge/SpeedConverterChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaUdemyCourse/section6 OOP/SumCalculator_and_Person/SumCalculator_and_Person.iml" filepath="$PROJECT_DIR$/JavaUdemyCourse/section6 OOP/SumCalculator_and_Person/SumCalculator_and_Person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/SumOddChallenge/SumOddChallenge.iml" filepath="$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/SumOddChallenge/SumOddChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/codingExcercises13_28/codingExcercises13_28.iml" filepath="$PROJECT_DIR$/JavaUdemyCourse/section5 control flow/codingExcercises13_28/codingExcercises13_28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-programming-masterclass-udemy.iml" filepath="$PROJECT_DIR$/.idea/java-programming-masterclass-udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaUdemyCourse/section6 OOP/section6 OOP.iml" filepath="$PROJECT_DIR$/JavaUdemyCourse/section6 OOP/section6 OOP.iml" />
+    </modules>
+  </component>
+</project>
